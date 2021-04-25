@@ -1,6 +1,6 @@
 # first_flutter_app
 
-A new Flutter project.
+A very beginner flutter application utilizing maps, lists to capture the concepts.
 
 ## Getting Started
 
