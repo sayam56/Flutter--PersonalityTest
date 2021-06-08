@@ -4,7 +4,7 @@ A very beginner flutter application utilizing maps, lists to capture the concept
 
 
 ## Demo
-<p align="center"><img src="personalitu.gif"/></p>
+<p align="center"><img src="personalityu.gif"/></p>
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
